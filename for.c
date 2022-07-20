@@ -429,7 +429,7 @@
 
 // 39-misol
 int main(){
-    int A=4,B=5;
+    int A=1,B=3;
     for(A=1;A<B;A++){
         for(int i=1;i<=A;i++){
             printf("%d ",A);
